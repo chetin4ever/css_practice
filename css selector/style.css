@@ -1,0 +1,31 @@
+p{
+    text-align: center;
+    color:green;
+
+}
+/* slecting particular id  we can use (#) */
+#para1{
+    text-align: left;
+    color:blueviolet;
+}
+
+/* html element with center calss can be apply bleow property */
+.center{
+    text-align: center;
+    color:brown
+}
+p.center{
+    text-align: right;
+    color:rgb(230, 19, 89);
+}
+/* universal selector - affect all element  */
+* {
+    text-align: center;
+    color:navy;
+}
+
+ /* grouping selector */
+h2,h3{
+    text-align: end;
+    color:grey; 
+}
