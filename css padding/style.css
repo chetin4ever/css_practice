@@ -1,0 +1,17 @@
+div{
+    width: 300px;
+    padding:100px;
+    color:white;
+    background-color: seagreen;
+    margin: auto;
+
+}
+h1{
+    padding-left: 50%;
+}
+h2{
+    padding: 20px 30px 40px 50px;
+}
+h3{
+    padding-bottom: 200px;
+}
