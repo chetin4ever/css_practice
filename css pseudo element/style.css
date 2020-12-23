@@ -1,0 +1,18 @@
+p::first-line{
+    font-variant: small-caps;
+    font-size: xx-large;
+
+}
+h1::first-letter{
+    color: red;
+    font-size: 70px;
+    font-variant: small-caps;
+}
+p.intro::first-letter{
+    color:brown;
+    font-size: 100px;
+    /* font-variant:small-caps; */
+}
+p.before::before{
+    content: url("https://c.tenor.com/jrGh1WraDjMAAAAj/smiley-smile.gif");
+}
