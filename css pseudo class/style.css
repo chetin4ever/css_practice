@@ -1,0 +1,40 @@
+input{
+     border-style: groove;  
+     border-color: brown; 
+     
+}
+input:focus{
+    background-color: rgb(35, 223, 60);
+}
+p{
+    display: none;
+    background-color: darkkhaki;
+    padding: 20px;
+    margin:20px;
+}
+div:hover p{
+    display: block;
+}
+a:link{
+    color:violet;
+}
+
+a:visited{
+    color: red;
+}
+a:active{
+    color:blue;
+}
+a:hover{
+    color:green;
+}
+h1:first-child{
+    color:blue;
+}
+h1:nth-child(3){
+    color: red;
+}
+
+h3 i:first-child{
+    color:rebeccapurple
+}
