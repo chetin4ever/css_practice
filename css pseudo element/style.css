@@ -16,3 +16,6 @@ p.intro::first-letter{
 p.before::before{
     content: url("https://c.tenor.com/jrGh1WraDjMAAAAj/smiley-smile.gif");
 }
+p.before::after{
+    content: url("https://c.tenor.com/jrGh1WraDjMAAAAj/smiley-smile.gif");
+}
