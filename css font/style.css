@@ -1,0 +1,65 @@
+div {
+    border: 1px solid gray;
+    padding: 8px;
+}
+
+h1 {
+    text-align: center;
+    color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    text-align: justify;
+    letter-spacing: 3px;
+    color: black;
+    font-variant: small-caps;
+}
+
+h2 {
+    text-align: center;
+    color: aqua;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 50px;
+
+}
+
+h3.px {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+
+h3.em {
+    text-align: center;
+    color: blue;
+    font-size: 2.5em;
+}
+
+h4.view {
+    text-align: center;
+    background-color: crimson;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10vw;
+}
+
+h5.googlefont-a {
+    font-family: "Sofia";
+    font-size: 3em;
+}
+
+h5.googlefont-b {
+    font-family: "Audiowide";
+    font-size: 3em;
+    text-shadow: 3px 3px 3px #f76402;
+}
+
+h5.googlefont-c {
+    font-family: "Trirong";
+    font-size: 3em;
+}
+div.shorthand{
+    margin-top: 2px;
+    font:small-caps italic bold 20px Arial ;
+}
