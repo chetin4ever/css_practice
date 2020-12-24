@@ -1,0 +1,27 @@
+.box1 {
+    width: 300px;
+    height: 100px;
+    border: 1px red solid;
+
+}
+
+.box2 {
+    width: 300px;
+    height: 100px;
+    border: 1px red solid;
+    padding:50px
+
+}
+.box3{
+    widows: 300px;
+    height: 100px;
+    border: 1px red solid;
+    box-sizing: border-box;
+}
+.box4{
+    widows: 300px;
+    height: 100px;
+    border: 1px red solid;
+    box-sizing: border-box;
+    padding: 50px;
+}
