@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.column{
+        float: left;
+        width: 24%;
+        padding: 20px;
+        background-color: #aaa;
+        border: 1px tomato solid;
+}
+@media screen and (max-width: 992px) {
+    .column {
+      width: 50%;
+    }
+  }
+@media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
